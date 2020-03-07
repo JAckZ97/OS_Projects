@@ -1,3 +1,3 @@
 # OS_Projects
 
-- Recursive threading method to find the defective light bulbs
+- Multi_Thread: Recursive threading method to find the defective light bulbs
