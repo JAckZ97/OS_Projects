@@ -1,6 +1,5 @@
 ![](https://raw.githubusercontent.com/JAckZ97/OS_Projects/master/OS.jpg)
 
-<center>OS_Projects</center>
 
 # OS_Projects
 
